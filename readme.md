@@ -1,0 +1,1 @@
+Exercícios do Project Euler feitos em Java.
