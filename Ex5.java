@@ -21,6 +21,6 @@ public class Ex5 {
         }
         return true;
     }
-    // OBS: Temtar menor divisivel pelo produto do multiplo para n usar um alcance
+    // OBS: Tentar menor divisivel pelo produto do multiplo para n usar um alcance
     // alto?
 }
