@@ -1,1 +1,1 @@
-Exercícios do Project Euler feitos em Java.
+Exercícios do Project Euler feitos em Javaa.
